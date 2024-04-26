@@ -3,5 +3,5 @@
 
 
 def to_str(n: float) -> str:
-    """Returns a float and returns a string."""
+    """Return a float and returns a string."""
     return str(n)
