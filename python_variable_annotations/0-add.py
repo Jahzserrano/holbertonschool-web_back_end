@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Add variable function."""
+"""Basic annotations - add"""
 
 
 def add(a: float, b: float) -> float:
-    """Add two floats"""
+    """function with two parameters with float type annotations"""
     return a + b
