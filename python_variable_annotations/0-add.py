@@ -1,7 +1,18 @@
 #!/usr/bin/env python3
-"""This function takes two float numbers as input and returns their sum."""
+"""
+    Module with typing Python
+"""
 
 
 def add(a: float, b: float) -> float:
-    """Function adds float."""
-    return a + b
+    """
+        Args:
+            a: The first parameter
+            b: The second parameter
+
+        Return:
+            Sum of two floats
+
+    """
+
+    return (a + b)
